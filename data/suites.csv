@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Kiểm thử thêm 1 sản phẩm vào giỏ hàng thành công","388","testAddItemToCart","Smoke Test Suite","Fri May 08 04:51:51 UTC 2026","broken","Fri May 08 04:51:52 UTC 2026","tests.CartTest","Login and Cart Smoke Tests","tests.CartTest","testAddItemToCart"
-"Kiểm thử đăng nhập với username/password hợp lệ","383","testLoginSuccess","Smoke Test Suite","Fri May 08 04:51:50 UTC 2026","broken","Fri May 08 04:51:50 UTC 2026","tests.LoginTest","Login and Cart Smoke Tests","tests.LoginTest","testLoginSuccess"
+"Kiểm thử đăng nhập với username/password hợp lệ","506","testLoginSuccess","Smoke Test Suite","Mon May 11 05:56:12 UTC 2026","broken","Mon May 11 05:56:13 UTC 2026","tests.LoginTest","Login and Cart Smoke Tests","tests.LoginTest","testLoginSuccess"
+"Kiểm thử thêm 1 sản phẩm vào giỏ hàng thành công","597","testAddItemToCart","Smoke Test Suite","Mon May 11 05:56:19 UTC 2026","broken","Mon May 11 05:56:19 UTC 2026","tests.CartTest","Login and Cart Smoke Tests","tests.CartTest","testAddItemToCart"
